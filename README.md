@@ -1,13 +1,11 @@
-# Project Name
+# EatAt
 
-> Project description
+> Honorable mentions module of a restaurant critic website.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/hrr42-fec5/service-allen
+  - https://github.com/hrr42-fec5/service-tom
 
 ## Table of Contents
 
